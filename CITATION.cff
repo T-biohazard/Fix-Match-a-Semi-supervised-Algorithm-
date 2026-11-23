@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the related publication for the experiment you reproduce."
+title: "FixMatch for Image Classification"
+type: software
+authors:
+  - family-names: "Tahsin"
+    given-names: "Md"
+repository-code: "https://github.com/T-biohazard/Fix-Match-a-Semi-supervised-Algorithm-"
+date-released: 2025-04-14
+keywords:
+  - semi-supervised learning
+  - FixMatch
+  - computer vision
+  - PyTorch
+preferred-citation:
+  type: article
+  title: "A FixMatch Framework for Alzheimer's Disease Classification: Exploring the Trade-Off Between Supervision and Performance"
+  authors:
+    - family-names: "Hossain"
+      given-names: "Al"
+    - family-names: "Konok"
+      given-names: "Umme Hani"
+    - family-names: "Tahsin"
+      given-names: "Md"
+    - family-names: "Islam"
+      given-names: "Raihan Ul"
+    - family-names: "Rashid"
+      given-names: "Mohammad Rifat Ahmmad"
+    - family-names: "Hossain"
+      given-names: "Mohammad Shahadat"
+    - family-names: "Andersson"
+      given-names: "Karl"
+  journal: "IEEE Access"
+  year: 2025
+  doi: "10.1109/ACCESS.2025.3556964"
